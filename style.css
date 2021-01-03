@@ -1,0 +1,108 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#EEE;
+    
+
+   
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   background-color: #E4F5F9;
+   max-width: 1000px;
+   height: 80%;
+   margin: 0px auto;
+}
+.profile-pc{
+    width: 100px;
+    height: 120px;
+    border: 3px white;
+    border-radius: 50%;
+    float: left;
+    padding: 20px;
+}
+.header-bio{
+    float: left;
+    padding: 20px;
+   
+}
+h1,h2,h3,h4,h5,h6{
+    color: teal;
+}
+.information-bio a{
+    float: right;
+    margin-right: 10px;
+    
+    text-decoration: none;
+    
+    
+}
+.information-bio a:hover{
+    color: tomato;
+    text-decoration:underline;
+    
+    
+}
+.information-bio a:visited{
+    color: red;
+    text-decoration: none;
+    
+    
+}
+.ap{
+    padding: 20px;
+   
+    
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 99.5%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-section{
+
+}
+.content{
+    margin-bottom: 20px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    color: black;
+    float: left;
+}
+.common hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 99.5%;
+    margin: 30px auto;
+}
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+.bottom a{
+    color: blue;
+    text-decoration: none;
+}
+.bottom a:hover{
+    color:tomato;
+    text-decoration: underline;
+}
+
+
+
+
+    
